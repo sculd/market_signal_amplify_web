@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "storage": {
+      "MarketSignal:@model(appsync)": [
+        "read"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

@@ -1,0 +1,11 @@
+type MarketSignal @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  symbol: String
+  date: AWSDate
+  datetime: AWSDateTime
+  window_size_minutes: Int
+  min_dro: Float
+  max_jump: Float
+  price: Float
+}
+ 

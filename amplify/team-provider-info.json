@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-marketsignal-staging-220038-authRole",
+      "UnauthRoleArn": "arn:aws:iam::212875327140:role/amplify-marketsignal-staging-220038-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::212875327140:role/amplify-marketsignal-staging-220038-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-marketsignal-staging-220038-deployment",
+      "UnauthRoleName": "amplify-marketsignal-staging-220038-unauthRole",
+      "StackName": "amplify-marketsignal-staging-220038",
+      "StackId": "arn:aws:cloudformation:us-east-2:212875327140:stack/amplify-marketsignal-staging-220038/100c3520-787e-11eb-9524-0212e61935fe",
+      "AmplifyAppId": "devgdljwyfwhu"
+    }
+  }
+}
